@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'spectrum:naver',
+  name: 'datamaker:naver',
   version: '0.0.1',
   summary: 'Naver OAuth flow',
-  git: 'https://github.com/acidsound/meteor-naver',
+  git: 'https://github.com/datamaker/meteor-naver',
   documentation: 'README.md'
 });
 
